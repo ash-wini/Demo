@@ -1,5 +1,5 @@
 # Demo
-This is demo cucumber/selenium automation project for a simple web page test automation.
+This is a demo cucumber/selenium automation project for a simple web page test automation.
 The coding is done in Java.
 
 Requirements:  Java (jdk 8 or higher), Cucumber, Selenium, Junit, Chrome browser
